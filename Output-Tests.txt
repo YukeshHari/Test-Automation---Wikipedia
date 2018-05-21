@@ -1,0 +1,26 @@
+﻿[21-May-18 2:23:41 PM YUKESH Informational] ------ Run test started ------
+[21-May-18 2:24:17 PM YUKESH Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21-May-18 2:24:17 PM YUKESH Informational] Running all tests in C:\Users\cool\source\repos\WikiTest1\WikiTest1\bin\Debug\WikiTest1.dll
+[21-May-18 2:24:18 PM YUKESH Informational] NUnit couldn't find any tests in C:\Users\cool\source\repos\WikiTest1\WikiTest1\bin\Debug\WikiTest1.dll
+[21-May-18 2:24:18 PM YUKESH Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21-May-18 2:24:18 PM YUKESH Informational] SpecFlow+Runner execution started
+[21-May-18 2:24:19 PM YUKESH Informational] SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+[21-May-18 2:24:19 PM YUKESH Informational] SpecRun: running tests in C:\Users\cool\source\repos\WikiTest1\WikiTest1\bin\Debug\WikiTest1.dll
+[21-May-18 2:24:19 PM YUKESH Informational] Profile: Default
+[21-May-18 2:24:19 PM YUKESH Informational] Evaluation mode: test execution starts in 5 seconds...
+[21-May-18 2:24:19 PM YUKESH Informational] (this delay is removed in the registered version)
+[21-May-18 2:24:24 PM YUKESH Informational] Discovering target: Default
+[21-May-18 2:24:24 PM YUKESH Informational] Discovering tests from assembly: C:\Users\cool\source\repos\WikiTest1\WikiTest1\bin\Debug\WikiTest1.dll
+[21-May-18 2:24:34 PM YUKESH Informational] Result: tests executed with warnings
+[21-May-18 2:24:34 PM YUKESH Informational]   Total: 0
+  Succeeded: 0
+  Ignored: 0
+  Pending: 0
+  Skipped: 0
+  Failed: 0
+
+  Execution Time: 00:00:00.5700326
+[21-May-18 2:24:34 PM YUKESH Informational] Report file: file:///C:\Users\cool\source\repos\WikiTest1\TestResults\C\Users\cool\source\repos\WikiTest1\TestResults\WikiTest1_Default_2018-05-21T142419.html
+[21-May-18 2:24:34 PM YUKESH Informational] Log file: file:///C:\Users\cool\source\repos\WikiTest1\TestResults\WikiTest1_Default_2018-05-21T142419.log
+[21-May-18 2:24:34 PM YUKESH Informational] SpecFlow+Runner execution finished
+[21-May-18 2:24:35 PM YUKESH Informational] ========== Run test finished: 2 run (0:00:53.8360792) ==========
